@@ -1,0 +1,78 @@
+html {
+  margin:0 auto;
+  padding:0;
+  height:100%;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+body{
+	position:relative;
+	height:100%;
+}
+button{
+	width:60px;
+	height:20px;
+	padding:20px;
+	margin: 10px 16px 10px 10px;
+	text-align:center;
+	border-radius:10px;
+	-webkit-border-radius: 10px;
+	font-size:16px;
+	font-weight: 800;
+    font-family: "Open Sans",Arial,sans-serif;
+	text-transform: uppercase;
+	line-height: 2px;
+	background:white;
+
+}
+span{
+color:white;
+font-size:19px;
+font-weight:700;
+text-align:centerl
+}
+.red{
+	background:red;
+}
+.green{
+	background:#1cf338 ;
+}
+.div-full-of-buttons{
+	width:90%;
+	margin:0 auto;
+	
+}
+.widnow-data{
+	height:100px;
+	width:90%;
+	background-color:white;
+	margin:0 auto;
+	margin-top:3%;
+}
+.cont-in-center{
+	background-color:black;
+	-webkit-animation:bgChange 2s 2s alternate infinite;
+    transition: all 2s ease;
+}
+.all{
+	width:100%;
+	height:100%;
+}
+.cont-in-center{
+	width:400px;
+	height:auto;
+	border:solid black 1px;
+	border-radius:5px;
+	left:0;
+	right:0;
+	top:20%;
+	bottom:0;
+	margin: 0 auto ;
+	position: relative;
+	 box-shadow: 20px 20px 5px #888888;
+}
+
+
+#equals{
+width:42%;
+}
